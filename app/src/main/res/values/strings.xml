@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">LinksBox</string>
+
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="open">Open</string>
+    <string name="link">Link</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="create">Create</string>
+
+    <string name="add_folder_button">Add folder</string>
+    <string name="try_add_folder_button">Try add folder</string>
+    <string name="empty_folders">Your folder list is empty</string>
+    <string name="error_getting_folders">An error occurred while trying to get folders</string>
+    <string name="error_delete_folder">An error occurred while trying to delete folder</string>
+
+    <string name="empty_links">Your folder is empty</string>
+    <string name="error_getting_links">An error occurred while trying to get links</string>
+    <string name="error_delete_link">An error occurred while trying to delete link</string>
+    <string name="error_open_link">An error occurred while trying to open link</string>
+    <string name="save_link">Save link</string>
+    <string name="create_folder">Create folder</string>
+    <string name="select_folder">Select folder</string>
+
+    <string name="error_preview_loading">Can not load preview</string>
+    <string name="error_update_preview">Can not update preview</string>
+    <string name="error_save_preview">Can not save link</string>
+    <string name="add_folder_button_with_plus">"+Add folder"</string>
+
+    <string name="error_save_link_in_folder">An error occurred while trying to save link</string>
+
+    <string name="dialog_delete_folder_message">Do you want delete folder %1$s?</string>
+    <string name="dialog_delete_link_message">Do you want delete: %1$s?</string>
+    <string name="dialog_open_in_browser_title">Open in browser</string>
+    <string name="dialog_open_in_browser_message">Do you want open in browser: %1$s?</string>
+</resources>
